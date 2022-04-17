@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\E\code\vscode\example_1\main.cpp(81): warning C4715: “searchData”: 不是所有的控件路径都返回值
+  example_1.vcxproj -> D:\E\code\vscode\example_1\x64\Debug\example_1.exe
